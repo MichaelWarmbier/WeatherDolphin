@@ -1,6 +1,6 @@
 # WeatherDolphin
 
-Web application that allows the user to choose coordinates, then provides the weather over a week along with some helpful info.
+Web application that allows the user to choose coordinates, then provides the weather over a week along with some helpful disaster related information.
 
 ## Description
 
@@ -9,8 +9,6 @@ This website was designed within three days for the College of Staten Island Fal
 Programmed by: Michael Warmbier<br>
 Design: Mahima Karanth<br>
 Resource Gathering: Shu Yuan William Lin<br>
-
-'The theme of this event was social issues. As someone who has experienced the effects of Hurricane Sandy, and during a time that many people are being impacted by the constantly changing tides of global warming, I believe this site is the start in the right direction to a free, accessible source of information for these events, as well as general weather info' - Michael
 
 ## Credit
 
